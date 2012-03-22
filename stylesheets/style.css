@@ -1,1 +1,11 @@
-.h1 { text-align: center; }
+.gitresume {
+  width: 100%;
+  margin: 0 auto;
+}
+.vcard {
+  width: 1024px;
+  margin-top: 50px;
+  font: normal 13px 'Hevetica Neue', 'Helvetica', sans-serif;
+  text-align: center;
+}
+.h1 { font-size: 30px; }
