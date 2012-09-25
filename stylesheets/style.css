@@ -3,9 +3,19 @@
   margin: 0 auto;
 }
 .vcard {
-  width: 1024px;
-  margin-top: 50px;
+  margin: 20px;
   font: normal 13px 'Hevetica Neue', 'Helvetica', sans-serif;
-  text-align: center;
+  text-align: left;
 }
 .h1 { font-size: 30px; }
+#quick-links {
+  margin-top: 5px;
+  padding-left: 30px;
+  list-style: none outside none;
+}
+#quick-links .label {
+  display: inline-block;
+  width: 50px;
+  padding: 0 8px 2px 0;
+  text-align: right;
+}
